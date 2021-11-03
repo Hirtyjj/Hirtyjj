@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hirtyjj
 - 👀 I’m interested in development of russian community
-- 🌱 I’m currently learning somewhere else, it's no of your business
+- 🌱 I’m currently learning somewhere else, it's non of your business
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
